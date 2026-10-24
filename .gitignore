@@ -12,3 +12,4 @@ dist
 *.pyproj
 *.sln
 pysr/.vs/
+uv.lock
